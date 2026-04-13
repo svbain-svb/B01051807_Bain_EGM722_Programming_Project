@@ -1,0 +1,11 @@
+name:B01051807_Bain_EGM722_Programming_Project
+channels:
+	- conda-forge
+	- defaults
+dependencies:
+	- python=3.9
+	- geopandas
+	- cartopy
+	- notebook
+	- rasterio
+	- pyepsg
