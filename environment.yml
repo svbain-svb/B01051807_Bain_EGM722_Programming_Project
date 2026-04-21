@@ -1,4 +1,4 @@
-name:B01051807_Bain_EGM722_Programming_Project
+name:Flood_Area_Calculator
 channels:
 	- conda-forge
 	- defaults
@@ -8,4 +8,5 @@ dependencies:
 	- cartopy
 	- notebook
 	- rasterio
+	- numpy
 	- pyepsg
