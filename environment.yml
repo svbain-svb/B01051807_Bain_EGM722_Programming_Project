@@ -12,4 +12,5 @@ dependencies:
   - pyepsg
   - pandas
   - ipykernel
+  - scipy
 
